@@ -1,1 +1,1 @@
-This repository contains few javaScript project
+This repository contains few javaScript projects
